@@ -1,1 +1,1 @@
-# ASSIGNMENTS of <PYTHON I> class
+# ASSIGNMENTS of PYTHON I class
