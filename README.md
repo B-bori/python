@@ -1,1 +1,1 @@
-# ASSIGNMENTS of PYTHON I class
+# ASSIGNMENTS of 2020 HYU Lecture
